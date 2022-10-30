@@ -21,7 +21,7 @@ import "./Grandpa.css";
 
  
 
-export const RingContext = createContext("ring");
+export const RingContext = createContext("Daimon Ring");
 
 const Grandpa = () => {
   const [house, setHouse] = useState(1);
